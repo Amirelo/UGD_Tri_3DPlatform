@@ -20,4 +20,12 @@ public class KeThuTruyenKieps : MonoBehaviour
         Vector3 targetpos =  (keThuTruyenKieps.transform.position - transform.position).normalized;
         transform.position += targetpos * speed * Time.deltaTime;
     }
+    private void OnCollisionEnter(Collision other) {
+        if (other.gameObject.tag == "Player")
+        {
+            other.gameObject.GetComponent<DamgeCuaKeThuTruyenKieps>().hell -= 100;
+        }
+    }    
+    
+    
 }
