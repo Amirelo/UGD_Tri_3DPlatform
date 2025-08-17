@@ -53,14 +53,20 @@
     <Compile Include="Assets\Code\Fire_dullet.cs" />
     <Compile Include="Assets\Code\Speedy_pad.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\Jump.cs" />
+    <Compile Include="Assets\Code\Level_skibiti.cs" />
     <Compile Include="Assets\Code\Jump_pad.cs" />
+    <Compile Include="Assets\Level_2\ThirdParty\Bonefire\ParticleSystemMultiplier.cs" />
     <Compile Include="Assets\MauBanLaKhongChamMot.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\GroundCheck.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\FirstPersonMovement.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\Zoom.cs" />
+    <Compile Include="Assets\Level_2\ThirdParty\Campfire Pack\Script\SwitchView.cs" />
+    <Compile Include="Assets\Code\Tempurator.cs" />
     <Compile Include="Assets\DamgeCuaKeThuTruyenKieps.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\Crouch.cs" />
     <Compile Include="Assets\Code\Dullet.cs" />
+    <Compile Include="Assets\Level_2\ThirdParty\Bonefire\FireLight.cs" />
+    <Compile Include="Assets\Level_2\ThirdParty\Bonefire\ParticleSystemDestroyer.cs" />
     <Compile Include="Assets\KeThuTruyenKieps.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\FirstPersonLook.cs" />
   </ItemGroup>

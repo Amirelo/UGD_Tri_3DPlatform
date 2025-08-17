@@ -6,6 +6,8 @@ TagManager:
   tags:
   - enemy
   - coinlysnes
+  - Fire
+  - LuaChuas
   layers:
   - Default
   - TransparentFX
