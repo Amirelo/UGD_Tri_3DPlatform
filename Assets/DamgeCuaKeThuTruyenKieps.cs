@@ -30,7 +30,7 @@ public class DamgeCuaKeThuTruyenKieps : MonoBehaviour
     {
         if (other.tag == "coinlysnes")
         {
-            TienDongXu += 1;
+            TienDongXu += 1000;
             SoTienCuaBanHienTaiLaKhong.text = TienDongXu.ToString();
             Destroy(other.gameObject);
         }

@@ -42,7 +42,7 @@
     <UnityVersion>2022.3.62f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\trand\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\trand\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -50,6 +50,7 @@
     <Compile Include="Assets\Code\Tele.cs" />
     <Compile Include="Assets\Code\Trap.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\FirstPersonAudio.cs" />
+    <Compile Include="Assets\Code\AnimScript.cs" />
     <Compile Include="Assets\Code\Fire_dullet.cs" />
     <Compile Include="Assets\Code\Speedy_pad.cs" />
     <Compile Include="Assets\ThirdPart\Mini First Person Controller\Scripts\Components\Jump.cs" />
